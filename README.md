@@ -5,4 +5,3 @@ To address this challenge, this project aims to develop a machine learning-based
 
 To achieve this, we will leverage various machine learning techniques such as supervised learning algorithms like logistic regression, decision trees, and support vector machines. We will also use unsupervised learning techniques like clustering and anomaly detection to identify patterns and outliers in the data.
 
-Ultimately, the results of this project will enable financial institutions to proactively identify and manage potential risks associated with credit card usage, potentially saving millions of dollars in losses due to fraud or default. Additionally, consumers can benefit from the increased security and reliability of credit card usage, leading to greater trust in financial institutions and the broader financial system.
